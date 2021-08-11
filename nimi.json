@@ -1,0 +1,1088 @@
+{
+  "a": [
+    "b",
+    "bld",
+    "brd",
+    "t",
+    "tld"
+  ],
+  "akesi": [
+    "b",
+    "bl",
+    "br",
+    "ml",
+    "mr",
+    "t",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "ala": [
+    "bld",
+    "brd",
+    "tld",
+    "trd"
+  ],
+  "alasa": [
+    "bl",
+    "bld",
+    "ml",
+    "mr",
+    "tl",
+    "tld"
+  ],
+  "ale": [
+    "bl",
+    "bld",
+    "br",
+    "brd",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "anpa": [
+    "b",
+    "ml",
+    "mr",
+    "tl",
+    "tr"
+  ],
+  "ante": [
+    "bld",
+    "br",
+    "ml",
+    "mr",
+    "tl",
+    "trd"
+  ],
+  "anu": [
+    "bm",
+    "tld",
+    "trd"
+  ],
+  "awen": [
+    "bld",
+    "brd",
+    "tm"
+  ],
+  "e": [
+    "bl",
+    "bld",
+    "tl",
+    "tld"
+  ],
+  "en": [
+    "bm",
+    "ml",
+    "mr",
+    "tm"
+  ],
+  "epiku": [
+    "bld",
+    "bm",
+    "brd"
+  ],
+  "esun": [
+    "bl",
+    "bld",
+    "brd",
+    "ml",
+    "mr",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "ijo": [
+    "b",
+    "bl",
+    "br",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "ike": [
+    "t",
+    "tl",
+    "tr"
+  ],
+  "ilo": [
+    "bm",
+    "ml",
+    "mr",
+    "t",
+    "tl",
+    "tm",
+    "tr"
+  ],
+  "insa": [
+    "b",
+    "bl",
+    "br",
+    "tl",
+    "tm",
+    "tr"
+  ],
+  "jaki": [
+    "b",
+    "bld",
+    "br",
+    "brd",
+    "ml",
+    "t",
+    "tl",
+    "tld",
+    "trd"
+  ],
+  "jan": [
+    "bld",
+    "brd",
+    "ml",
+    "mr",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "jasima": [
+    "bm",
+    "br",
+    "ml",
+    "mr",
+    "tl",
+    "tm"
+  ],
+  "jelo": [
+    "b",
+    "bld",
+    "brd",
+    "ml",
+    "mr",
+    "tr"
+  ],
+  "jo": [
+    "b",
+    "bl",
+    "br",
+    "ml",
+    "t",
+    "tl",
+    "trd"
+  ],
+  "kala": [
+    "bld",
+    "br",
+    "brd",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "kalama": [
+    "b",
+    "bl",
+    "br",
+    "tld",
+    "tm",
+    "trd"
+  ],
+  "kama": [
+    "bld",
+    "brd",
+    "tld"
+  ],
+  "kasi": [
+    "bm",
+    "ml",
+    "mr",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "ken": [
+    "bl",
+    "brd",
+    "ml",
+    "tl",
+    "trd"
+  ],
+  "kepeken": [
+    "bl",
+    "bld",
+    "br",
+    "mr",
+    "t",
+    "tld",
+    "tm",
+    "trd"
+  ],
+  "kijetesantakalu": [
+    "b",
+    "bl",
+    "bld",
+    "bm",
+    "br",
+    "brd",
+    "ml",
+    "mr",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "kili": [
+    "b",
+    "bl",
+    "br",
+    "ml",
+    "mr",
+    "tld"
+  ],
+  "kin": [
+    "b",
+    "bld",
+    "brd",
+    "t",
+    "trd"
+  ],
+  "kipisi": [
+    "bld",
+    "br",
+    "tl",
+    "trd"
+  ],
+  "kiwen": [
+    "br",
+    "brd",
+    "t",
+    "tld",
+    "tr"
+  ],
+  "ko": [
+    "b",
+    "bl",
+    "br",
+    "mr",
+    "t",
+    "tl",
+    "trd"
+  ],
+  "kokosila": [
+    "bld",
+    "brd",
+    "ml",
+    "mr",
+    "tm"
+  ],
+  "kon": [
+    "b",
+    "br",
+    "ml",
+    "mr",
+    "t",
+    "tl"
+  ],
+  "ku": [
+    "b",
+    "bl",
+    "bm",
+    "br",
+    "mr",
+    "t",
+    "tl",
+    "tr",
+    "trd"
+  ],
+  "kule": [
+    "b",
+    "bld",
+    "brd",
+    "ml",
+    "mr"
+  ],
+  "kulupu": [
+    "bm",
+    "tl",
+    "tr"
+  ],
+  "kute": [
+    "b",
+    "br",
+    "ml",
+    "t",
+    "tr"
+  ],
+  "la": [
+    "b",
+    "br",
+    "t",
+    "tr"
+  ],
+  "lanpan": [
+    "bld",
+    "bm",
+    "brd",
+    "ml",
+    "tl",
+    "tr",
+    "trd"
+  ],
+  "lape": [
+    "br",
+    "brd",
+    "ml",
+    "mr"
+  ],
+  "laso": [
+    "b",
+    "bld",
+    "brd",
+    "ml",
+    "mr",
+    "tl"
+  ],
+  "lawa": [
+    "b",
+    "bl",
+    "br",
+    "ml",
+    "mr",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "leko": [
+    "b",
+    "bl",
+    "bm",
+    "br",
+    "ml",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "len": [
+    "bl",
+    "bm",
+    "br",
+    "ml",
+    "mr",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "lete": [
+    "bld",
+    "brd",
+    "ml",
+    "mr",
+    "tld",
+    "trd"
+  ],
+  "li": [
+    "bld",
+    "tld"
+  ],
+  "lili": [
+    "ml",
+    "mr",
+    "tld",
+    "trd"
+  ],
+  "linja": [
+    "bl",
+    "ml",
+    "mr",
+    "tr"
+  ],
+  "lipu": [
+    "b",
+    "bl",
+    "bm",
+    "br",
+    "t",
+    "tl",
+    "tm",
+    "tr"
+  ],
+  "loje": [
+    "b",
+    "bld",
+    "brd",
+    "ml",
+    "mr",
+    "tm"
+  ],
+  "lon": [
+    "b",
+    "tm"
+  ],
+  "luka": [
+    "bl",
+    "bld",
+    "br",
+    "mr"
+  ],
+  "lukin": [
+    "b",
+    "bl",
+    "bm",
+    "br",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "lupa": [
+    "b",
+    "bl",
+    "br",
+    "tl",
+    "tr"
+  ],
+  "ma": [
+    "b",
+    "bl",
+    "bm",
+    "br",
+    "ml",
+    "mr",
+    "t",
+    "tl",
+    "tm",
+    "tr"
+  ],
+  "mama": [
+    "b",
+    "bld",
+    "brd",
+    "ml",
+    "mr",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "mani": [
+    "b",
+    "bld",
+    "brd",
+    "ml",
+    "mr",
+    "tl",
+    "tr"
+  ],
+  "meli": [
+    "bm",
+    "ml",
+    "mr",
+    "t",
+    "tm"
+  ],
+  "meso": [
+    "bl",
+    "br",
+    "ml",
+    "mr",
+    "tl",
+    "tr"
+  ],
+  "mi": [
+    "bl",
+    "ml",
+    "mr",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "mije": [
+    "bld",
+    "t",
+    "tr",
+    "trd"
+  ],
+  "misikeke": [
+    "b",
+    "bl",
+    "bm",
+    "br",
+    "ml",
+    "mr"
+  ],
+  "moku": [
+    "bl",
+    "bld",
+    "br",
+    "mr",
+    "tld",
+    "trd"
+  ],
+  "moli": [
+    "b",
+    "bl",
+    "bld",
+    "br",
+    "brd",
+    "t",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "monsi": [
+    "b",
+    "bl",
+    "ml",
+    "t",
+    "tl"
+  ],
+  "monsuta": [
+    "bl",
+    "br",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "mu": [
+    "b",
+    "bl",
+    "bm",
+    "br",
+    "ml",
+    "mr",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "mun": [
+    "b",
+    "bm",
+    "br",
+    "t",
+    "tm",
+    "tr"
+  ],
+  "musi": [
+    "b",
+    "bl",
+    "br",
+    "ml",
+    "mr",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "mute": [
+    "bl",
+    "bm",
+    "br",
+    "tl",
+    "tm",
+    "tr"
+  ],
+  "n": [
+    "bm",
+    "br",
+    "mr"
+  ],
+  "namako": [
+    "bm",
+    "ml",
+    "mr"
+  ],
+  "nanpa": [
+    "b",
+    "bm",
+    "br",
+    "ml",
+    "mr",
+    "tm",
+    "tr"
+  ],
+  "nasa": [
+    "b",
+    "bl",
+    "br",
+    "mr",
+    "t",
+    "tl"
+  ],
+  "nasin": [
+    "bld",
+    "bm",
+    "brd",
+    "tm"
+  ],
+  "nena": [
+    "bl",
+    "br",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "ni": [
+    "bl",
+    "bld",
+    "tl"
+  ],
+  "nimi": [
+    "b",
+    "bl",
+    "bld",
+    "br",
+    "t",
+    "tl",
+    "tr",
+    "trd"
+  ],
+  "noka": [
+    "b",
+    "bl",
+    "brd",
+    "tl"
+  ],
+  "o": [
+    "b",
+    "bld",
+    "brd",
+    "tm"
+  ],
+  "oko": [
+    "brd",
+    "mr",
+    "trd"
+  ],
+  "olin": [
+    "b",
+    "bl",
+    "bm",
+    "br",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "ona": [
+    "b",
+    "bm",
+    "br",
+    "mr"
+  ],
+  "open": [
+    "b",
+    "bl",
+    "br",
+    "ml",
+    "mr",
+    "tl",
+    "tr"
+  ],
+  "pakala": [
+    "br",
+    "mr",
+    "t",
+    "trd"
+  ],
+  "pali": [
+    "bl",
+    "bld",
+    "br",
+    "mr",
+    "t",
+    "tld",
+    "trd"
+  ],
+  "palisa": [
+    "bm",
+    "trd"
+  ],
+  "pan": [
+    "bm",
+    "tld",
+    "tm",
+    "trd"
+  ],
+  "pana": [
+    "bl",
+    "bld",
+    "br",
+    "mr",
+    "tld",
+    "tm",
+    "trd"
+  ],
+  "pi": [
+    "b",
+    "bl",
+    "tl"
+  ],
+  "pilin": [
+    "b",
+    "bl",
+    "br",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "pimeja": [
+    "b",
+    "bld",
+    "bm",
+    "brd",
+    "ml",
+    "mr"
+  ],
+  "pini": [
+    "b",
+    "bm",
+    "t",
+    "tm"
+  ],
+  "pipi": [
+    "bld",
+    "bm",
+    "brd",
+    "ml",
+    "mr",
+    "t",
+    "tm"
+  ],
+  "poka": [
+    "b",
+    "bl",
+    "br",
+    "mr",
+    "tl",
+    "tr"
+  ],
+  "poki": [
+    "b",
+    "bl",
+    "br",
+    "ml",
+    "trd"
+  ],
+  "pona": [
+    "b",
+    "bl",
+    "br"
+  ],
+  "pu": [
+    "b",
+    "bl",
+    "bld",
+    "br",
+    "brd",
+    "t",
+    "tl",
+    "tld",
+    "tm",
+    "tr",
+    "trd"
+  ],
+  "sama": [
+    "b",
+    "ml",
+    "mr",
+    "t"
+  ],
+  "seli": [
+    "b",
+    "tld",
+    "tm",
+    "trd"
+  ],
+  "selo": [
+    "bl",
+    "bld",
+    "br",
+    "brd",
+    "t",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "seme": [
+    "b",
+    "bld",
+    "br",
+    "mr",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "sewi": [
+    "bl",
+    "bld",
+    "bm",
+    "br",
+    "tl",
+    "tr"
+  ],
+  "sijelo": [
+    "bl",
+    "bm",
+    "br",
+    "t",
+    "tl",
+    "tm",
+    "tr"
+  ],
+  "sike": [
+    "b",
+    "bld",
+    "br",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "sin": [
+    "ml",
+    "mr",
+    "tm"
+  ],
+  "sina": [
+    "b",
+    "bl",
+    "br",
+    "ml",
+    "mr",
+    "tl"
+  ],
+  "sinpin": [
+    "b",
+    "br",
+    "mr",
+    "t",
+    "tr"
+  ],
+  "sitelen": [
+    "b",
+    "bl",
+    "br",
+    "mr",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "soko": [
+    "bm",
+    "t",
+    "tl",
+    "tm",
+    "tr"
+  ],
+  "sona": [
+    "b",
+    "bl",
+    "br",
+    "ml",
+    "mr",
+    "tld",
+    "tm",
+    "trd"
+  ],
+  "soweli": [
+    "bl",
+    "bm",
+    "mr",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "suli": [
+    "t",
+    "tld",
+    "trd"
+  ],
+  "suno": [
+    "ml",
+    "mr",
+    "tld",
+    "tm",
+    "trd"
+  ],
+  "supa": [
+    "bl",
+    "bm",
+    "br",
+    "t",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "suwi": [
+    "b",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "tan": [
+    "bl",
+    "bld",
+    "t",
+    "tl",
+    "tr"
+  ],
+  "taso": [
+    "br",
+    "mr",
+    "tr"
+  ],
+  "tawa": [
+    "bld",
+    "brd",
+    "trd"
+  ],
+  "telo": [
+    "ml",
+    "tl",
+    "tr",
+    "trd"
+  ],
+  "tenpo": [
+    "b",
+    "bl",
+    "br",
+    "mr",
+    "t",
+    "tl",
+    "tm",
+    "tr"
+  ],
+  "toki": [
+    "b",
+    "bld",
+    "brd",
+    "tld",
+    "tm",
+    "trd"
+  ],
+  "tomo": [
+    "b",
+    "bl",
+    "br",
+    "ml",
+    "tr",
+    "trd"
+  ],
+  "tonsi": [
+    "bld",
+    "brd",
+    "t",
+    "tl",
+    "tld",
+    "trd"
+  ],
+  "tu": [
+    "bl",
+    "bm",
+    "tl",
+    "tm"
+  ],
+  "unpa": [
+    "b",
+    "bld",
+    "brd",
+    "ml",
+    "mr",
+    "tl",
+    "tld",
+    "tr",
+    "trd"
+  ],
+  "uta": [
+    "ml",
+    "t",
+    "tl",
+    "trd"
+  ],
+  "utala": [
+    "bl",
+    "bld",
+    "br",
+    "brd",
+    "tld",
+    "trd"
+  ],
+  "walo": [
+    "b",
+    "bld",
+    "brd",
+    "ml",
+    "mr",
+    "t"
+  ],
+  "wan": [
+    "br",
+    "tr",
+    "trd"
+  ],
+  "waso": [
+    "bl",
+    "ml",
+    "tld"
+  ],
+  "wawa": [
+    "b",
+    "bl",
+    "bld",
+    "br",
+    "brd",
+    "tl",
+    "tr"
+  ],
+  "weka": [
+    "bld",
+    "ml",
+    "mr",
+    "trd"
+  ],
+  "wile": [
+    "bl",
+    "bld",
+    "br",
+    "brd",
+    "tl",
+    "tr"
+  ],
+  "{colon}": [
+    "b",
+    "t"
+  ],
+  "{comma}": [
+    "b",
+    "br"
+  ],
+  "{exclamation}": [
+    "brd",
+    "tr"
+  ],
+  "{name_end}": [
+    "b",
+    "brd",
+    "t",
+    "trd"
+  ],
+  "{name_start}": [
+    "b",
+    "bld",
+    "t",
+    "tld"
+  ],
+  "{period}": [
+    "b"
+  ],
+  "{question}": [
+    "b",
+    "bm",
+    "mr",
+    "t",
+    "tr"
+  ]
+}
