@@ -11,7 +11,7 @@ A 14-segment display is a way of showing alphanumeric characters with very few d
 ### Symbol chart
 Without further ado, here is the symbol chart for sitelen palisa:
 
-![The symbol chart for sitelen palisa.](im_final.png)
+![The symbol chart for sitelen palisa.](full_table.png)
 
 ### Design philosophy
 The 14-segment display is pretty limited -- it was designed for 36 alphanumeric characters and a handful of symbols, and I'm trying to cram 137 visually distinct and meaningful glyphs into it. So I had to make a bunch of compromises.
