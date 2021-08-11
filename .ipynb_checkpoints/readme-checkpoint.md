@@ -1,6 +1,8 @@
 # sitelen palisa
 ## A 14-segment logography for Toki Pona
 
+![mi jan Katapin. o kama pona lon lipu pi sitelen palisa.](welcome.png)
+
 ### What is Toki Pona?
 Toki Pona is a minimalist constructed language created by Sonja Lang, with only 137 essential words. It has a thriving community online, can be learned in a couple of weeks, and is very fun to use. Because it has so few words, the most common writing system for it (other than the Latin alphabet) is a logography (one symbol per word) called *sitelen pona*.
 
@@ -11,7 +13,7 @@ A 14-segment display is a way of showing alphanumeric characters with very few d
 ### Symbol chart
 Without further ado, here is the symbol chart for sitelen palisa:
 
-![The symbol chart for sitelen palisa.](im_final.png)
+![The symbol chart for sitelen palisa.](full_table.png)
 
 ### Design philosophy
 The 14-segment display is pretty limited -- it was designed for 36 alphanumeric characters and a handful of symbols, and I'm trying to cram 137 visually distinct and meaningful glyphs into it. So I had to make a bunch of compromises.
